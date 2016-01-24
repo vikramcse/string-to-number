@@ -1,0 +1,27 @@
+{
+  "name": "string-to-number",
+  "version": "1.0.0",
+  "description": "Convert String to Number in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/string-to-number.git"
+  },
+  "keywords": ["stringToNumber", "fast", "string", "to", "number"],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/string-to-number/issues"
+  },
+  "homepage": "https://github.com/vikramcse/string-to-number#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "what-type": "^1.0.0"
+  }
+}
